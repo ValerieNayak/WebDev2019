@@ -1,0 +1,24 @@
+p {
+    text-align:center
+}
+
+h2 {
+    text-align:center
+}
+
+h1 {
+    text-align: center;
+}
+
+.store_buttons {
+    text-align: center;
+    max-width: 300px;
+    margin: 0 auto;
+    display: block;
+}
+
+.images {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
